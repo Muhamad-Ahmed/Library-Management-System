@@ -1,0 +1,15 @@
+{
+  "name": "library_management_ahmed",
+  "version": "1.0.0",
+  "description": "Library management system made using OOP in Typescript.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Shahid",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  }
+}
